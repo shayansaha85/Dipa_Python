@@ -19,8 +19,8 @@ print(div2_result)
 # power
 pow_ans = number2 ** number1
 print(pow_ans)
-
 # remainder / modulo | 5/2 --> 1
 
 rem = number1 % number2
 print(rem)
+
