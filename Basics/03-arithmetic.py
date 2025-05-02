@@ -13,7 +13,7 @@ div1_result = number1 / number2
 print(div1_result)
 
 # division2 --> when we want output as integer
-div2_result = number1 // number2
+div2_result = number1 // number2 # 5/2 = 2.5, 5//2 = 2
 print(div2_result)
 
 # power

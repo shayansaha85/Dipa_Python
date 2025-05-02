@@ -1,0 +1,4 @@
+
+1. Input --> int, output --> factorial value | example: 5, output : 120
+2. Find out the binary equivalent | 5 --> binary
+3. Armstrong : 564 --> 3 digits : 5^3 + 6^3 + 4^3 == 564 ✅
